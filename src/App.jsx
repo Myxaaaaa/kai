@@ -15,6 +15,7 @@ const App = () => {
           <Route path='/main' element={<MainPage/>}/>
         </Routes>
         {/* <MapWidget/> */}
+        //Муха
     </div>
   )
 }
